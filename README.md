@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/logo.png" width="250px">
+  <img src="assets/images/logo.PNG" width="250px">
   <br>
   <a href="https://www.witnessdevs.gitgub.io/index.html">witnessdevs.github.io</a>
   <br>
